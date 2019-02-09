@@ -1,5 +1,6 @@
 #include <iostream>
-#include <vector3.h>
+#include <External/glut.h>
+#include <Core/vector3.h>
 
 void main()
 {
